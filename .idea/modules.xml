@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QuantitiyMeasurementApp.iml" filepath="$PROJECT_DIR$/QuantitiyMeasurementApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuantityMeasurementUC10/QuantityMeasurementUC10.iml" filepath="$PROJECT_DIR$/QuantityMeasurementUC10/QuantityMeasurementUC10.iml" />
     </modules>
   </component>
 </project>
